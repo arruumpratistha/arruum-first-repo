@@ -2,3 +2,4 @@ ARRUUM FIRST REPO
 -Front End Developer
 -Back End Developer
 -Social Media Specialist
+-Social Media Strategist
